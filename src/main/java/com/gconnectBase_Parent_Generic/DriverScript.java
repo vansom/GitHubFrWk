@@ -21,7 +21,8 @@
 //driver.get(prop.getProperty & the name of which URL(prod/preprod/dev)which we want to run
 //then run
 //all codes in this Eclipse Framework have bben copied from other Framework, so
-// if I make any changes like add a commented line ex.this i for test<Save it<refesh project<
+// if I make any changes like add a commented line ex.this i for test<Save it<go to Git symbol(last icon)
+//on top right corner<click it<
 
 
 package com.gconnectBase_Parent_Generic;
