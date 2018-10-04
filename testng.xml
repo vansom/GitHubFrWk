@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.gconnectTestCases.Test01HomePgLinksVald"/>
+      <class name="com.gconnectTestCases.Test02AddCustomer"/>
+      <class name="com.gconnectTestCases.Test02AddCustomerWithReporter"/>
+      <class name="com.gconnectTestCases.Test02AddCustomerExcel"/>
+      
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
