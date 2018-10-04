@@ -20,6 +20,8 @@
 //we write syntax for maximize, pageLoadTimeout, & Implicitly Wait< then write syntax for
 //driver.get(prop.getProperty & the name of which URL(prod/preprod/dev)which we want to run
 //then run
+//all codes in this Eclipse Framework have bben copied from other Framework, so
+// if I make any changes like add a commented line ex.this i for test<Save it<refesh project<
 
 
 package com.gconnectBase_Parent_Generic;
@@ -33,7 +35,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.annotations.Test;
-
+//this is to test
 public class DriverScript 
 {
 	public static WebDriver driver;// declaring global var WebDriver with driver as reference; public means these var r accessible across packages
